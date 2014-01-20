@@ -1,3 +1,9 @@
+libzmq-constants-perl (1.04-1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- gregor herrmann <gregoa@debian.org>  Mon, 20 Jan 2014 20:29:31 +0100
+
 libzmq-constants-perl (1.03-1) unstable; urgency=low
 
   * Initial release (Closes: #702957)
