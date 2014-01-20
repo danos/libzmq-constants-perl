@@ -1,8 +1,10 @@
-libzmq-constants-perl (1.04-1) UNRELEASED; urgency=medium
+libzmq-constants-perl (1.04-1) unstable; urgency=medium
 
+  * Team upload.
   * New upstream release.
+  * Declare compliance with Debian Policy 3.9.5.
 
- -- gregor herrmann <gregoa@debian.org>  Mon, 20 Jan 2014 20:29:31 +0100
+ -- gregor herrmann <gregoa@debian.org>  Mon, 20 Jan 2014 20:30:36 +0100
 
 libzmq-constants-perl (1.03-1) unstable; urgency=low
 
