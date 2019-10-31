@@ -1,13 +1,10 @@
 Source: libzmq-constants-perl
 Section: perl
 Priority: optional
-Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
-Uploaders: Alessandro Ghedini <ghedo@debian.org>
-Build-Depends: debhelper (>= 8)
+Maintainer: Vyatta Package Maintainers <DL-vyatta-help@att.com>
+Build-Depends: debhelper (>= 9)
 Build-Depends-Indep: perl
-Standards-Version: 3.9.5
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-perl/packages/libzmq-constants-perl.git
-Vcs-Git: git://anonscm.debian.org/pkg-perl/packages/libzmq-constants-perl.git
+Standards-Version: 3.9.6
 Homepage: https://metacpan.org/release/ZMQ-Constants
 
 Package: libzmq-constants-perl

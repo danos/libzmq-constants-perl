@@ -1,3 +1,9 @@
+libzmq-constants-perl (1.04-1vyatta2) unstable; urgency=medium
+
+  * DANOS Import master
+
+ -- Vyatta Package Maintainers <DL-vyatta-help@att.com>  Thu, 31 Oct 2019 12:08:01 +0000
+
 libzmq-constants-perl (1.04-1) unstable; urgency=medium
 
   * Team upload.
